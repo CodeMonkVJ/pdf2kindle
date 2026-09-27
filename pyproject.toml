@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdf2kindle-fixed"
+version = "0.1.0"
+description = "Convert PDFs into fixed-page Kindle books using Kindle Comic Converter"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+pdf2kindle = "pdf2kindle:main"
+
+[tool.setuptools]
+py-modules = ["pdf2kindle"]

@@ -1,0 +1,8 @@
+README.md
+pdf2kindle.py
+pyproject.toml
+pdf2kindle_fixed.egg-info/PKG-INFO
+pdf2kindle_fixed.egg-info/SOURCES.txt
+pdf2kindle_fixed.egg-info/dependency_links.txt
+pdf2kindle_fixed.egg-info/entry_points.txt
+pdf2kindle_fixed.egg-info/top_level.txt
